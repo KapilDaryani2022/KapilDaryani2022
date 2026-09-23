@@ -81,15 +81,6 @@ AI-powered fashion discovery platform built with React Native.
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=KapilDaryani2022&show_icons=true&theme=github_dark&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KapilDaryani2022&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
-
----
-
 ## 🌱 Currently Learning
 
 - 🤖 AI & LLM Integrations
