@@ -106,7 +106,7 @@ AI-powered fashion discovery platform built with React Native.
 https://kapildaryani.in/
 
 💼 LinkedIn  
-https://linkedin.com/in/KapilDaryani2022
+https://linkedin.com/in/kapildaryani
 
 📧 Email  
 kapildaryani5802@gmail.com
